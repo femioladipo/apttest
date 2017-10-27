@@ -10,7 +10,7 @@ def replaced(s, old, new):
             break
         out.append(s[i:j])
         out.append(new)
-        i = j + 5
+        i = j + 1
     if i < len(s):
         out.append(s[i:])
 
