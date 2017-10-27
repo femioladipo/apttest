@@ -9,6 +9,6 @@ while 1:
     for num in line.split(" "):
         total += int(num)
     print("Total: %d (%f%%)" % (total, total * (100.0 / out_of)))
-print ("houssam")
-
+print("houssam")
+print("My name is Femi")
 
