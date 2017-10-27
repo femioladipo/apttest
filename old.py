@@ -11,5 +11,5 @@ while 1:
     print("Total: %d (%f%%)" % (total, total * (100.0 / out_of)))
 print ("houssam")
 String[] arr = ["Houssam", "Femi"]
-
+print("My name is Femi")
 
